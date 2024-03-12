@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: rgb(199, 193, 193);
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
