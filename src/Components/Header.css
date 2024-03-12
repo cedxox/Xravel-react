@@ -10,7 +10,7 @@
     justify-content: space-between;
   }
   .header {
-    background-image: url('../../public/images/e7c73505-2116-492e-83a9-b79be3c27b7c.jpeg');
+    background-image: url('/images/e7c73505-2116-492e-83a9-b79be3c27b7c.jpeg');
     background-size: cover;
     height: 56rem;
     background-repeat: no-repeat;
